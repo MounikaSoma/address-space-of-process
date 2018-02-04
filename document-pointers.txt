@@ -1,0 +1,120 @@
+trial1-
+------
+local a:0x7fffe5354478
+local b:0x7fffe535447c
+local c:0x7fffe5354480
+global g_first:0x60105c
+global g_second:0x601060
+global g_third:0x601064
+child 1
+child 2
+local j:0x7fffe5354454
+local k:0x7fffe5354458
+local l:0x7fffe535445c
+global g_first:0x60105c
+global g_second:0x601060
+global g_third:0x601064
+local j:0x7fffe5354454
+local k:0x7fffe5354458
+local l:0x7fffe535445c
+global g_first:0x60105c
+global g_second:0x601060
+global g_third:0x601064
+child 3 
+local j:0x7fffe5354454
+local k:0x7fffe5354458
+local l:0x7fffe535445c
+global g_first:0x60105c
+global g_second:0x601060
+global g_third:0x601064
+
+trial2-
+-------
+local a:0x7fff97a449b8
+local b:0x7fff97a449bc
+local c:0x7fff97a449c0
+global g_first:0x60105c
+global g_second:0x601060
+global g_third:0x601064
+child 1
+local j:0x7fff97a44994
+local k:0x7fff97a44998
+local l:0x7fff97a4499c
+global g_first:0x60105c
+global g_second:0x601060
+global g_third:0x601064
+child 2
+local j:0x7fff97a44994
+local k:0x7fff97a44998
+local l:0x7fff97a4499c
+global g_first:0x60105c
+global g_second:0x601060
+global g_third:0x601064
+child 3 
+local j:0x7fff97a44994
+local k:0x7fff97a44998
+local l:0x7fff97a4499c
+global g_first:0x60105c
+global g_second:0x601060
+global g_third:0x601064
+
+trial3-
+------
+local a:0x7fffe74f9ad8
+local b:0x7fffe74f9adc
+local c:0x7fffe74f9ae0
+global g_first:0x60105c
+global g_second:0x601060
+global g_third:0x601064
+child 1
+child 2
+local j:0x7fffe74f9ab4
+local k:0x7fffe74f9ab8
+local j:0x7fffe74f9ab4
+local l:0x7fffe74f9abc
+local k:0x7fffe74f9ab8
+global g_first:0x60105c
+local l:0x7fffe74f9abc
+global g_second:0x601060
+global g_first:0x60105c
+global g_third:0x601064
+global g_second:0x601060
+global g_third:0x601064
+child 3 
+local j:0x7fffe74f9ab4
+local k:0x7fffe74f9ab8
+local l:0x7fffe74f9abc
+global g_first:0x60105c
+global g_second:0x601060
+global g_third:0x601064
+
+trial-4
+-------
+local a:0x7ffeec96d070
+local b:0x7ffeec96d074
+local c:0x7ffeec96d078
+global g_first:0x60107c
+global g_second:0x601080
+global g_third:0x601084
+child 1
+local j:0x7ffeec96d054
+local k:0x7ffeec96d058
+local l:0x7ffeec96d05c
+global g_first:0x60107c
+global g_second:0x601080
+global g_third:0x601084
+child 2
+local j:0x7ffeec96d054
+local k:0x7ffeec96d058
+local l:0x7ffeec96d05c
+global g_first:0x60107c
+global g_second:0x601080
+global g_third:0x601084
+child 3 
+local j:0x7ffeec96d054
+local k:0x7ffeec96d058
+local l:0x7ffeec96d05c
+global g_first:0x60107c
+global g_second:0x601080
+global g_third:0x601084
+

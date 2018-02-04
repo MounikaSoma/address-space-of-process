@@ -1,0 +1,6 @@
+The documentation for the value printed on running the code is given in the file document-pointers
+The address of the global variables(g_first,g_second,g_third) do not change how many ever times we run the code. As it is a global variable, its location can be used by any process to access and this location does not change(by the concept of global variables). These variables are not created each time we run the code and thus the address remains the same always.However, if the laptop is turned off and later turned on, the global variable's address will change because this time, new memory is allocated to those variables.
+
+The addresses of the local variables created inside the main function(a,b,c) changes each time we run the code as they are local only to that particular function.
+
+The addresses of the local variables of PrintVariable() i.e j,k,l are the same when called by any of the child processes. This is because these variables were created inside the PrintVariable(). Each child process is only calling it but not creating a variable.However, the values of these addresses changes when we run it the next time. This is because they are local variables and not global variables.
